@@ -1,5 +1,6 @@
-## Hi there 👋
+## About me 👋
 
+Hello, my name is Monica :) Welcome to my github profile!
 <!--
 **mxvasx/mxvasx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
